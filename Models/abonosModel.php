@@ -1,5 +1,5 @@
 <?php
-include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3/Models/connect.php';
+include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3_Grupo4/Models/connect.php';
 
 function ObtenerComprasPendientesModel()
 {

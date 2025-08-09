@@ -1,6 +1,6 @@
 <?php
-    include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3/Views/layoutInterno.php';
-    include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3/Views/layoutExterno.php';
+    include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3_Grupo4/Views/layoutInterno.php';
+    include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3_Grupo4/Views/layoutExterno.php';
 
 ?>
 <?php 

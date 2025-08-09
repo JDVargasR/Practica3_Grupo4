@@ -1,5 +1,5 @@
 <?php
-    include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3/Views/layoutInterno.php';
+    include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3_Grupo4/Views/layoutInterno.php';
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -9,7 +9,7 @@
 <body>
 <?php
     ShowSidebar();
-    include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3/Controllers/principalController.php';
+    include_once $_SERVER["DOCUMENT_ROOT"] . '/Practica3_Grupo4/Controllers/principalController.php';
     $listaProductos = ConsultarProductos();
 ?>
 
