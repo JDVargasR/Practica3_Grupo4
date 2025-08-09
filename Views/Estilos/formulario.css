@@ -3,7 +3,7 @@
     background: #ffffff;
     padding: 30px;
     border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 450px;
     margin: auto;
@@ -44,4 +44,17 @@
 
 .form-box .btn-dark:hover {
     background-color: #252b23;
+}
+
+.form-box .form-text {
+    color: #6c757d;
+    margin-top: 6px;
+}
+
+.form-label .req {
+    color: #dc3545;
+}
+
+.input-group .input-group-text {
+    font-weight: 600;
 }
