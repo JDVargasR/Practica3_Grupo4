@@ -1,0 +1,47 @@
+/* Estilos generales del formulario */
+.form-box {
+    background: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+}
+
+.form-box h3 {
+    text-align: center;
+    margin-bottom: 25px;
+    color: #333;
+}
+
+.form-box .form-group {
+    margin-bottom: 20px;
+}
+
+.form-box .form-control {
+    border-radius: 6px;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.form-box label {
+    font-weight: 600;
+    margin-bottom: 5px;
+    display: block;
+    color: #333;
+}
+
+.form-box .btn {
+    font-size: 16px;
+    padding: 10px 20px;
+}
+
+.form-box .btn-dark {
+    background-color: #343a40;
+    border: none;
+}
+
+.form-box .btn-dark:hover {
+    background-color: #252b23;
+}
