@@ -8,7 +8,7 @@ if (isset($_POST["btnRegistrarAbono"])) {
     $respuesta = RegistrarAbonoModel($idCompra, $monto);
 
     if ($respuesta) {
-        header("location: ../../Views/Consulta/consultarProductos.php");
+        header("location: /Practica3_Grupo4/Views/Home/consultarProductos.php");
     } else {
         $_POST["txtMensaje"] = "El abono no fue registrado correctamente.";
     }

@@ -10,6 +10,10 @@
         mysqli_close($context);
     }
 
-   
-
+    function RegistrarError($e)
+    {
+        // Guarda mensaje de error (Si pasara)
+        error_log('[ABONOS] '.$e->getMessage());
+        error_log($e->getTraceAsString());
+    }
 ?>

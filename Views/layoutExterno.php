@@ -9,7 +9,7 @@
             <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
             <title>Admin</title>
             <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
-            <link rel="stylesheet" href="../Estilos/style.css" >
+            <link rel="stylesheet" href="/Practica3_Grupo4/Views/Estilos/style.css">
             <script
             src="https://code.jquery.com/jquery-3.6.0.js"
             integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="

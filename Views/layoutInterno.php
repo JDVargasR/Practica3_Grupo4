@@ -7,8 +7,8 @@ function AddCsss()
         <meta charset="UTF-8">
         <title>Sistema de Abonos</title>
         <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
-        <link rel="stylesheet" href="/Practica3/Views/Estilos/style.css">
-        <link href="/Practica3/Views/Estilos/formulario.css" rel="stylesheet">
+        <link rel="stylesheet" href="/Practica3_Grupo4/Views/Estilos/style.css">
+        <link href="/Practica3_Grupo4/Views/Estilos/formulario.css" rel="stylesheet">
     </head>';
 }
 
@@ -18,7 +18,7 @@ function ShowSidebar()
     '<input type="checkbox" id="nav-toggle">
     <div class="sidebar">
         <div class="sidebar-brand">
-            <a href="/Practica3/Views/Home/inicio.php" style="text-decoration: none; color: inherit;">
+            <a href="/Practica3_Grupo4/Views/Home/inicio.php" style="text-decoration: none; color: inherit;">
                 <h2 style="margin: 0; padding: 10px;">
                     <span class="la la-bank"></span> <span>Practica 3</span>
                 </h2>
